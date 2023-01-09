@@ -11,6 +11,7 @@ public class SonApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SonApplication.class, args);
+		System.out.println("HELLO!");
 	}
 
 }
